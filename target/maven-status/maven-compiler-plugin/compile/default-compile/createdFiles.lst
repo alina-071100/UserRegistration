@@ -1,0 +1,7 @@
+com\epam\servlets\UserServlet.class
+com\epam\manager\Manager.class
+com\epam\servlets\LoginServlet.class
+com\epam\model\UserRegister.class
+com\epam\manager\LoginManager.class
+com\epam\config\DBConnectionProvider.class
+com\epam\manager\EmployeeManager.class
